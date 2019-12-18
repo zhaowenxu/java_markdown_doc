@@ -12,5 +12,5 @@
 
 具体操作如下:
 
-![](https://github.com/zhaowenxu/java_markdown_doc/blob/master/images/static_field.png?raw=true)
+![](https://github.com/zhaowenxu/java_markdown_doc/raw/master/images/static_field.png?raw=true)
 
